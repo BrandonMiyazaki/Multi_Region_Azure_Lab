@@ -10,8 +10,7 @@ In this project, you will get the opportunity to deploy a highly available multi
 
 
 Prerequisites: 
- 
-	• Your laptop: Win, MacOS or Linux OR A development machine that you have administrator rights. 
+ 	• Your laptop: Win, MacOS or Linux OR A development machine that you have administrator rights. 
 	• VS Code locally installed with .NET SDK and Git packages 
 	• Active Azure Subscription (Microsoft non-production sub or Personal tenant). Owner rights needed at subscription level. 
 	• A personal GitHub Account. Sign up here if you do not already have one: https://github.com/join
