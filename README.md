@@ -1,4 +1,4 @@
-# Multi_Region_Azure_Lab
+![image](https://github.com/user-attachments/assets/4dda0086-4082-42d3-8dfb-c689b8f131d5)# Multi_Region_Azure_Lab
 
 Learning Objectives 
 In this project, you will get the opportunity to deploy a highly available multi-tire web application across multiple Azure regions. In this lab you will gain experience with the following services:
@@ -25,4 +25,6 @@ In this tutorial, you'll learn how to deploy a data-driven ASP.NET Core app to A
 
 
 
-![image](https://github.com/user-attachments/assets/18def41d-133c-4815-adfc-5aed09bdfa34)
+
+**![image](https://github.com/user-attachments/assets/af6e1efe-f90b-4af8-9708-ea09fc36fd1d)
+**
